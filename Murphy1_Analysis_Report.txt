@@ -1,0 +1,51 @@
+# MURPHY #1 WELL LOG ANALYSIS REPORT
+==================================================
+Analysis Date: 2025-07-22 15:23:30
+LAS File: /Users/reuben/well/Murphy 1_MainPass.las
+
+## WELL INFORMATION
+------------------------------
+STRT: HeaderItem(mnemonic="STRT", unit="F", value="-3.6", descr="Start")
+STOP: HeaderItem(mnemonic="STOP", unit="F", value="3345.9", descr="Stop")
+STEP: HeaderItem(mnemonic="STEP", unit="F", value="0.5", descr="Step increment")
+NULL: HeaderItem(mnemonic="NULL", unit="", value="-999.25", descr="Null value")
+COMP: HeaderItem(mnemonic="COMP", unit="", value="ITB Oil, LLC.", descr="Company")
+WELL: HeaderItem(mnemonic="WELL", unit="", value="Murphy #1", descr="Well")
+FLD: HeaderItem(mnemonic="FLD", unit="", value="South Johnson", descr="Field")
+CTRY: HeaderItem(mnemonic="CTRY", unit="", value="United States", descr="State / Cou")
+LOC: HeaderItem(mnemonic="LOC", unit="", value="0375N 0330W NEc SW SW", descr="Loca")
+LOC2: HeaderItem(mnemonic="LOC2", unit="", value="65407", descr="Location 2")
+SRVC: HeaderItem(mnemonic="SRVC", unit="", value="Weatherford", descr="Service compa")
+STAT: HeaderItem(mnemonic="STAT", unit="", value="USA / Illinois", descr="State")
+CNTY: HeaderItem(mnemonic="CNTY", unit="", value="Clark", descr="County")
+API: HeaderItem(mnemonic="API", unit="", value="", descr="API Number")
+LIC: HeaderItem(mnemonic="LIC", unit="", value="65407", descr="Licence Number")
+LATI: HeaderItem(mnemonic="LATI", unit="", value="", descr="Latitude")
+LONG: HeaderItem(mnemonic="LONG", unit="", value="", descr="Longitude")
+DATE: HeaderItem(mnemonic="DATE", unit="", value="10-Dec-2017", descr="Logging Date")
+
+## DATA SUMMARY
+------------------------------
+Depth Range: -3.6 - 3345.9 ft
+Total Points: 6,700
+Available Curves: 29
+
+## LITHOLOGY ANALYSIS
+------------------------------
+Clean Sandstone: 71.0%
+Shale: 15.1%
+Shaly Sandstone: 13.9%
+
+## PETROPHYSICAL PROPERTIES
+------------------------------
+Average Porosity: 10.2%
+Average Water Saturation: 79.4%
+Average Hydrocarbon Saturation: 20.6%
+Average Permeability: 45.7 mD
+
+## RESERVOIR QUALITY ASSESSMENT
+------------------------------
+Excellent (>15%): 20.1%
+Good (10-15%): 17.3%
+Fair (5-10%): 26.2%
+Poor (<5%): 34.5%
